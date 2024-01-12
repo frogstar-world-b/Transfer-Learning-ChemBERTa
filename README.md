@@ -72,5 +72,7 @@ The notebooks provide insights into the performance of different approaches. Met
 
 Given the dataset is small, fine-tuning was not sufficient to update the pre-trained weights significantly, and we ended up with nearly identical predictions for all the observations in the test set. 
 
-Transfer-learning improved prediction significantly, which was improved even more with the addition of molecular descriptors as predictors.
+Transfer-learning improved prediction significantly, and the addition of molecular descriptors as predictors extended this improvement even further.
+
+The transfer-learning results suffer from overfitting and more work on hyperparameter tuning is needed. However, the improvement in performance over fine-tuning is undeniable. 
 
