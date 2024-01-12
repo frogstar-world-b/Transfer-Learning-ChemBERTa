@@ -1,4 +1,4 @@
-# Transfer Learning vs. Fine-Tuning ChemBERTa for DHFR Inhibition Prediction
+# Transfer Learning vs. Fine-Tuning ChemBERTa for Regression
 
 ## Summary
 
